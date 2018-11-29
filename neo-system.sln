@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neon", "neo-compiler\neon\n
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatesDumper", "neo-plugins\StatesDumper\StatesDumper.csproj", "{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartContract", "neo-plugins\SmartContract\SmartContract\SmartContract.csproj", "{2DCC5D2C-70CD-44F0-88EB-68B59880D698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartContract", "neo-plugins\SmartContract\SmartContract.csproj", "{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +59,10 @@ Global
 		{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2DCC5D2C-70CD-44F0-88EB-68B59880D698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DCC5D2C-70CD-44F0-88EB-68B59880D698}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DCC5D2C-70CD-44F0-88EB-68B59880D698}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DCC5D2C-70CD-44F0-88EB-68B59880D698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
