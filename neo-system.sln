@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neo", "neo\neo\neo.csproj", "{A7C01E9E-782E-4BB6-9B14-DE1385F776EC}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationLogs", "neo-plugins\ApplicationLogs\ApplicationLogs.csproj", "{24248878-0BFF-40E4-A07D-E203D33260AC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportBlocks", "neo-plugins\ImportBlocks\ImportBlocks.csproj", "{430CC88E-296A-4CE9-AD18-FCFED666D4AC}"
@@ -19,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neon", "neo-compiler\neon\n
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatesDumper", "neo-plugins\StatesDumper\StatesDumper.csproj", "{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartContract", "neo-plugins\SmartContract\SmartContract.csproj", "{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartContract", "neo-plugins\SmartContract\SmartContract.csproj", "{B9851F65-DFF2-479E-A12C-DE69336AC10F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7C01E9E-782E-4BB6-9B14-DE1385F776EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7C01E9E-782E-4BB6-9B14-DE1385F776EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7C01E9E-782E-4BB6-9B14-DE1385F776EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7C01E9E-782E-4BB6-9B14-DE1385F776EC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{24248878-0BFF-40E4-A07D-E203D33260AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{24248878-0BFF-40E4-A07D-E203D33260AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24248878-0BFF-40E4-A07D-E203D33260AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -59,10 +53,10 @@ Global
 		{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49B21FC8-A773-4A5D-8915-BFE2A7B15C8A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{701D94D3-DEE1-4F42-BD2C-D0AB1898ED3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9851F65-DFF2-479E-A12C-DE69336AC10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9851F65-DFF2-479E-A12C-DE69336AC10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9851F65-DFF2-479E-A12C-DE69336AC10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9851F65-DFF2-479E-A12C-DE69336AC10F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
